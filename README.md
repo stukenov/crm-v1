@@ -1,5 +1,7 @@
 # CRM System - Version 1
 
+> **Archived.** This is an earlier step of the CRM series. The current version is [crm-v6](https://github.com/stukenov/crm-v6).
+
 A Customer Relationship Management (CRM) system built with Laravel 11 and Livewire, featuring a dynamic node-based data structure for flexible customer information management.
 
 ## Description
